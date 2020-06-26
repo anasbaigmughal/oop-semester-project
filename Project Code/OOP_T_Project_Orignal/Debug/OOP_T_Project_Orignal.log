@@ -1,0 +1,17 @@
+﻿Build started 12/24/2016 8:50:18 PM.
+     1>Project "C:\Users\Administrator\Desktop\Documents\Uni\OOP-CSC-210\Term Project\OOP Term Project Source Code\OOP_T_Project_Orignal\OOP_T_Project_Orignal.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OOP_T_Project_Orignal.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         OOP_T_Project_Orignal.vcxproj -> C:\Users\Administrator\Desktop\Documents\Uni\OOP-CSC-210\Term Project\OOP Term Project Source Code\Debug\OOP_T_Project_Orignal.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\OOP_T_Project_Orignal.unsuccessfulbuild".
+         Touching "Debug\OOP_T_Project_Orignal.lastbuildstate".
+     1>Done Building Project "C:\Users\Administrator\Desktop\Documents\Uni\OOP-CSC-210\Term Project\OOP Term Project Source Code\OOP_T_Project_Orignal\OOP_T_Project_Orignal.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
