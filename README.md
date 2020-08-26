@@ -30,4 +30,3 @@ Spending Tracker is basically an application which keeps record of the daily Inc
 
 ![](images/img3.png)
 
-
